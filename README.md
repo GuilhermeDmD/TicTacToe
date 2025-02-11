@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Jogo da Velha ✖⭕
 
 Trata-se de um jogo da velha desenvolvido como uma forma de estudo, sendo criado utilizando React JS e estilizado com auxílio do framework Bootstrap.
 Além disso, o game também possui uma mecânica de voltar em jogadas já realizadas.
