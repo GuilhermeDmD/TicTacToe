@@ -1,9 +1,7 @@
-# React + Vite
+# Jogo da Velha
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Trata-se de um jogo da velha desenvolvido como uma forma de estudo, sendo criado utilizando React JS e estilizado com auxílio do framework Bootstrap.
+Além disso, o game também possui uma mecânica de voltar em jogadas já realizadas.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# TicTacToe" 
+Para jogar basta somente rodar os seguintes comandos no console de sua IDE de preferência:
+bash"""
